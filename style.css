@@ -75,7 +75,7 @@
 }
 /*Hero*/
 .hero {
-    background: linear-gradient(to left, rgba(0,0,0,0.4), rgba(0,0,0,0.6)),  url("/images/5079.jpg"), no-repeat;
+    background: linear-gradient(to left, rgba(0,0,0,0.4), rgba(0,0,0,0.6)),  url("./images/5079.jpg"), no-repeat;
     background-size: cover;
     background-position: center;
     width: 100%;
